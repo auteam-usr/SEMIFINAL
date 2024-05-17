@@ -4,10 +4,10 @@
 
 |Машина|RAM, ГБ|CPU|HDD/SDD, ГБ|OS
 |-|-|-|-|-|
-|ISP|1|1|22|Альт JeOS|
-|HQ-RTR|1|1|1|Eltex vESR/ecorouter/Linux|
-|BR-RTR|1|1|1|Eltex vESR/ecorouter/Linux|
-|DC-RTR|1|1|1|Eltex vESR/ecorouter/Linux|
+|ISP||1|22|Альт JeOS|
+|HQ-RTR|4/4/1|2/2/1|1|Eltex vESR/ecorouter/Linux|
+|BR-RTR|4/4/1|2/2/1|1|Eltex vESR/ecorouter/Linux|
+|DC-RTR|4/4/1|2/2/1|1|Eltex vESR/ecorouter/Linux|
 |HQ-SW1|1|1|12|Альт Сервер|
 |BR-SW1|1|1|12|Альт Сервер|
 |BR-SW2|1|1|12|Альт Сервер|
@@ -19,7 +19,7 @@
 |DC-SRV2|8|8|100|Альт Виртуализация|
 |HQ-CLI|2|2|20|Альт Рабочая Станция|
 |BR-CLI|2|2|20|Альт Рабочая Станция|
-|Итого|34|34|378|
+|Итого|43/43/34|43/43/34|378|
 
 # День 1. Модуль А.
 ## Расчетное время выполнения модуля – 3 часа.
